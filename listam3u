@@ -35,16 +35,26 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 https://595b85410a151.streamlock.net/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png",TVMas Chile
 #EXTINF:-1  tvg-logo="https://lh3.googleusercontent.com/-YvhgR9bWwEk/XqeKc33JN4I/AAAAAAAAySs/RsIopL6SbT42YZrOwRYaWYx0EztbDMSkQCK8BGAsYHg/s0/2020-04-27.png",Extrema TV
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
 #EXTINF:-1 group-title=".RD" tvg-logo="http://www.vallevision.com.do/images/vallevision.png",Vallevision (RD)
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 #EXTINF:-1 group-title=".RD" tvg-logo="https://2.bp.blogspot.com/-dNgkjv_lHvA/WrukdUgXxuI/AAAAAAAAdEc/lr2WVL7zy20Nl9G1XIXzwu9BlBJj4buhwCLcBGAs/s200/RNN%2B-%2BRed%2BNacional%2BNoticias.png",RNN (RD)
 https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w1813055510.m3u8
 EXTINF:-1 group-title=".RD" tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png",Microvision (RD)
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+EXTINF:-1 group-title=".RD" tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png",Microvision (RD)
+http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
+#EXTINF:-1 group-title=".RD" tvg-logo="https://2.bp.blogspot.com/-eHostkY7rGo/XqjIBFt5ZkI/AAAAAAAAuls/T30NC87hzaIn0Z9IAOmROVgu3l2VQOHcQCLcBGAsYHQ/s200/GHTV.png",GH Television (RD)
+https://ss6.domint.net:3046/gh_str/tv10/chunklist_w1699232612.m3u8
+#EXTINF:-1 group-title=".RD" tvg-logo="https://2.bp.blogspot.com/-jDnx_UBoAxc/XbYPP9ZeLUI/AAAAAAAAof0/T12fg7dCmhYfaQdAbCXV0a3z_jyrK257ACK4BGAYYCw/s1600/Ame47.jpg",Ame 47 (RD)
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 group-title=".RD" tvg-logo="https://1.bp.blogspot.com/-5JBZ6ZO0ybk/XaS-xAYTF7I/AAAAAAAAoXA/u1OK-aVn_sQNM86uwWFBqLuk5Q-Uzo7hgCLcBGAsYHQ/s200/vegateve.jpg",Vega Teve (RD)
+https://ss6.domint.net:3012/tes_str/teleelsalvador/chunklist_w757952389.m3u8
+#EXTINF:-1 group-title=".RD" tvg-logo="https://cableondaoriental.com/images/logo_tv_new_md.png",Onda TV 10 (RD)
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:-1 group-title=".RD" tvg-logo="https://3.bp.blogspot.com/-ZuCp5RmcFwA/XbcT2NFUdiI/AAAAAAAAohE/qfgI5E9bQAwHeTIj7b-16ZQb4Qsw_PddgCLcBGAsYHQ/s200/MegaVision%2B%2528RD%2529.jpg",MegaVision (RD)
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1341240833.m3u8
 EXTINF:-1 group-title=".RD" tvg-logo="https://3.bp.blogspot.com/-INH3BeYCloo/XWVcY2zOpUI/AAAAAAAAmxI/YRwbGEa3orQf7ltrcE2VTv20TPoqYSiygCLcBGAs/s320/PHTV.png",PHTV (RD)
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 
